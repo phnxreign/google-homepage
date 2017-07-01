@@ -24,25 +24,33 @@ nav a img{
 }
 
 form {
-	width: 300px;
+	width: 50%;
 	margin: 0 auto;
 }
 
+form .button{
+	box-shadow: 0px 3px 3px 0px #848587;
+}
+
 #searchBar {
-	    width: 300px;
+    height: 25px;
+    width: 100%;
+    margin: 0 auto;
     margin-top: 20px;
 }
 
 #searchButton{
 	height: 30px;
-    width: 90px;
+    width: 50%
+    padding: 5px;
     margin-top: 20px;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 #feelingLucky{
 	height: 30px;
-	padding: 0 20px;
+	width: 50%;
+	padding: 5px;
 	margin-top: 20px;
 	margin-left: 10px;
 }
